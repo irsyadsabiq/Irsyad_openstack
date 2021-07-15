@@ -113,12 +113,10 @@ pip install -U ansible  ## Optional Works on stein, ansible will update to versi
 ########################################################################################################################
 ###################################################### CONTINUE HERE ###################################################
 ########################################################################################################################
-sudo mkdir -p /etc/kolla
-cp -r /usr/share/kolla-ansible/etc_examples/kolla/* /etc/kolla
-cp /usr/share/kolla-ansible/ansible/inventory/* .
+
 
 #### -> Edit multinode file, refer multinode-rocky-2021
-#### -> Edit /etc/kolla/globals.yml file, refer globals-rocky-2021.yml
+#### -> Edit globals.yml file, refer globals-rocky-2021.yml
 
 ########################################
 #########Ceph configuration#############
