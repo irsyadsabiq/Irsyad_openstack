@@ -15,5 +15,3 @@ Multinode.yml or Multinode-rocky-2021.yml is the file to declare which server ei
 
 
 Please do reach me at irsyadsabiq94@gmail.com if you have any questions. Thanks
-## Table of contents
-* [General info](#general-info)
